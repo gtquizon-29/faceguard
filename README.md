@@ -170,6 +170,7 @@ FaceGuard uses ISO/IEC 30107-1 terminology (bona fide presentation, attack prese
 | Name | GitHub | Contribution |
 |---|---|---|
 | J. Fajarillo | [@jfajarillo](https://github.com/jfajarillo) | Documentation |
+|C. Evangelista|[@Shiro823-a](https://github.com//Shiro823-a)|
 
 <!-- Add the remaining team members and their contributions. -->
 
